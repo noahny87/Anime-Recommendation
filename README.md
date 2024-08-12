@@ -12,16 +12,16 @@ Overall a really fun project and super helpful!
 P.S. More documentation is in the code of what is going on 😊
 
 P.P.S Here is my answer for what is similar to the anime "Naruto":
-             0               1
-0           Project ARMS   [[0.9839145]]
-1              Wolverine  [[0.98117644]]
-2          Speed Grapher   [[0.9810757]]
-3              Fate/Zero  [[0.97979856]]
-4                Slayers  [[0.97923565]]
-5  Chrome Shelled Regios   [[0.9786517]]
-6               Kurozuka  [[0.97846365]]
-7         Haibane Renmei   [[0.9774355]]
-8           Overlord III   [[0.9773185]]
-9            Double Hard   [[0.9769054]]
+                0               1
+0  Dragon Ball Super  [[0.97753817]]
+1     Akame ga Kill!   [[0.9766468]]
+2      Speed Grapher   [[0.9756323]]
+3            Radiant  [[0.97426593]]
+4         D.Gray-man   [[0.9740176]]
+5  Ninja Hattori-kun   [[0.9731953]]
+6      Dragon League   [[0.9727888]]
+7      Rental Magica   [[0.9725962]]
+8          Gatchaman   [[0.9724921]]
+9       Project ARMS   [[0.9723543]]
 
 It displays Anime Name and then Similarity Score (1 is perfect 0 is worst) 
