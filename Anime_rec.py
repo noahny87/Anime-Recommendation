@@ -58,7 +58,7 @@ def cs_similarity(model,input,num,anime):
 
 
 def main():
-    df = pd.read_csv("C:\\Users\\noahn\\OneDrive\\Documents\\Pythonprojects\\.venv\\anime.csv")
+    df = pd.read_csv(".\\anime.csv")
     df = preprocess(df)#preprocess data
     #print(df.columns)
     #embed(df)
